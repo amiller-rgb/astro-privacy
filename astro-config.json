@@ -1,0 +1,5 @@
+{
+  "schema": 1,
+  "weather": ["open-meteo", "7timer"],
+  "note": "Read by the Astro app about once a day. 'weather' lists the built-in forecast sources to use (ids: open-meteo, 7timer). Remove one to switch it off for every install. Unknown ids are ignored; a file that doesn't parse is ignored."
+}
